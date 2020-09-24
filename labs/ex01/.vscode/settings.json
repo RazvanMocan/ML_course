@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/razvan/software/anaconda3/envs/ML/bin/python3",
+    "python.dataScience.jupyterServerURI": "http://localhost:8888/?token=1f807a2c9f654ca8b2452ecf9d594a78e5edff68a018be9b"
+}
